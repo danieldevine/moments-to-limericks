@@ -1,4 +1,4 @@
-var moments = $('.moments');
+ var moments = $('.moments');
 var link = moments.find('a');
 var limerick = moments.find('span.text');
 
